@@ -82,4 +82,12 @@
     "cuota": 60,
     "recargo": 10,
     "fechaPagado": "2025-01-10"
- 
+  },
+  {
+    "nameConcepto": "Diciembre",
+    "fechaVencimiento": "2025-02-15",
+    "cuota": 60,
+    "recargo": 10,
+    "fechaPagado": "2025-02-15"
+  }
+]
