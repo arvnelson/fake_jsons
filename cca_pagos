@@ -1,107 +1,85 @@
 [
   {
-    "nameConcepto": "Concepto 1",
-    "fechaVencimiento": "2024-02-01",
-    "arancel": 100,
-    "recargo": 10,
-    "fechaPagado": "2024-01-30"
-  },
-  {
-    "nameConcepto": "Concepto 2",
-    "fechaVencimiento": "2024-02-05",
-    "arancel": 150,
-    "recargo": 15,
-    "fechaPagado": "2024-02-03"
-  },
-  {
-    "nameConcepto": "Concepto 3",
-    "fechaVencimiento": "2024-02-10",
-    "arancel": 120,
-    "recargo": 12,
-    "fechaPagado": "2024-02-08"
-  },
-  {
-    "nameConcepto": "Concepto 4",
+    "nameConcepto": "Matrícula",
     "fechaVencimiento": "2024-02-15",
-    "arancel": 200,
-    "recargo": 20,
-    "fechaPagado": "2024-02-13"
+    "cuota": 80,
+    "recargo": 10,
+    "fechaPagado": "2024-02-10"
   },
   {
-    "nameConcepto": "Concepto 5",
-    "fechaVencimiento": "2024-02-20",
-    "arancel": 180,
-    "recargo": 18,
-    "fechaPagado": "2024-02-18"
-  },
-  {
-    "nameConcepto": "Concepto 6",
-    "fechaVencimiento": "2024-02-25",
-    "arancel": 250,
-    "recargo": 25,
-    "fechaPagado": "2024-02-23"
-  },
-  {
-    "nameConcepto": "Concepto 7",
-    "fechaVencimiento": "2024-03-01",
-    "arancel": 130,
-    "recargo": 13,
-    "fechaPagado": "2024-02-28"
-  },
-  {
-    "nameConcepto": "Concepto 8",
-    "fechaVencimiento": "2024-03-05",
-    "arancel": 170,
-    "recargo": 17,
-    "fechaPagado": "2024-03-02"
-  },
-  {
-    "nameConcepto": "Concepto 9",
-    "fechaVencimiento": "2024-03-10",
-    "arancel": 220,
-    "recargo": 22,
-    "fechaPagado": "2024-03-07"
-  },
-  {
-    "nameConcepto": "Concepto 10",
+    "nameConcepto": "Enero",
     "fechaVencimiento": "2024-03-15",
-    "arancel": 190,
-    "recargo": 19,
-    "fechaPagado": "2024-03-12"
+    "cuota": 60,
+    "recargo": 10,
+    "fechaPagado": "2024-03-15"
   },
   {
-    "nameConcepto": "Concepto 11",
-    "fechaVencimiento": "2024-03-20",
-    "arancel": 270,
-    "recargo": 27,
-    "fechaPagado": "2024-03-18"
+    "nameConcepto": "Febrero",
+    "fechaVencimiento": "2024-04-15",
+    "cuota": 60,
+    "recargo": 10,
+    "fechaPagado": "2024-04-10"
   },
   {
-    "nameConcepto": "Concepto 12",
-    "fechaVencimiento": "2024-03-25",
-    "arancel": 140,
-    "recargo": 14,
-    "fechaPagado": "2024-03-23"
+    "nameConcepto": "Marzo",
+    "fechaVencimiento": "2024-05-15",
+    "cuota": 60,
+    "recargo": 10,
+    "fechaPagado": "2024-05-12"
   },
   {
-    "nameConcepto": "Concepto 13",
-    "fechaVencimiento": "2024-04-01",
-    "arancel": 160,
-    "recargo": 16,
-    "fechaPagado": "2024-03-30"
+    "nameConcepto": "Abril",
+    "fechaVencimiento": "2024-06-15",
+    "cuota": 60,
+    "recargo": 10,
+    "fechaPagado": "2024-06-15"
   },
   {
-    "nameConcepto": "Concepto 14",
-    "fechaVencimiento": "2024-04-05",
-    "arancel": 230,
-    "recargo": 23,
-    "fechaPagado": "2024-04-03"
+    "nameConcepto": "Mayo",
+    "fechaVencimiento": "2024-07-15",
+    "cuota": 60,
+    "recargo": 10,
+    "fechaPagado": "2024-07-14"
   },
   {
-    "nameConcepto": "Concepto 15",
-    "fechaVencimiento": "2024-04-10",
-    "arancel": 200,
-    "recargo": 20,
-    "fechaPagado": "2024-04-08"
-  }
-]
+    "nameConcepto": "Junio",
+    "fechaVencimiento": "2024-08-15",
+    "cuota": 60,
+    "recargo": 10,
+    "fechaPagado": "2024-08-15"
+  },
+  {
+    "nameConcepto": "Julio",
+    "fechaVencimiento": "2024-09-15",
+    "cuota": 60,
+    "recargo": 10,
+    "fechaPagado": "2024-09-10"
+  },
+  {
+    "nameConcepto": "Agosto",
+    "fechaVencimiento": "2024-10-15",
+    "cuota": 60,
+    "recargo": 10,
+    "fechaPagado": "2024-10-15"
+  },
+  {
+    "nameConcepto": "Septiembre",
+    "fechaVencimiento": "2024-11-15",
+    "cuota": 60,
+    "recargo": 10,
+    "fechaPagado": "2024-11-12"
+  },
+  {
+    "nameConcepto": "Octubre",
+    "fechaVencimiento": "2024-12-15",
+    "cuota": 60,
+    "recargo": 10,
+    "fechaPagado": "2024-12-15"
+  },
+  {
+    "nameConcepto": "Noviembre",
+    "fechaVencimiento": "2025-01-15",
+    "cuota": 60,
+    "recargo": 10,
+    "fechaPagado": "2025-01-10"
+ 
