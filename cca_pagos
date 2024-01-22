@@ -1,93 +1,106 @@
 [
   {
-    "nameConcepto": "Matrícula",
-    "fechaVencimiento": "2024-02-15",
+    "nameConcepto": "Matricula",
+    "fechaVencimiento": "2024-01-15",
     "cuota": 80,
     "recargo": 10,
-    "fechaPagado": "2024-02-10"
+    "fechaPagado": "2024-01-10",
+    "isChecked": false
   },
   {
     "nameConcepto": "Enero",
-    "fechaVencimiento": "2024-03-15",
+    "fechaVencimiento": "2024-02-15",
     "cuota": 60,
     "recargo": 10,
-    "fechaPagado": "2024-03-15"
+    "fechaPagado": "2024-02-10",
+    "isChecked": true
   },
   {
     "nameConcepto": "Febrero",
-    "fechaVencimiento": "2024-04-15",
+    "fechaVencimiento": "2024-03-15",
     "cuota": 60,
     "recargo": 10,
-    "fechaPagado": "2024-04-10"
+    "fechaPagado": "2024-03-10",
+    "isChecked": false
   },
   {
     "nameConcepto": "Marzo",
-    "fechaVencimiento": "2024-05-15",
+    "fechaVencimiento": "2024-04-15",
     "cuota": 60,
     "recargo": 10,
-    "fechaPagado": "2024-05-12"
+    "fechaPagado": "2024-04-10",
+    "isChecked": false
   },
   {
     "nameConcepto": "Abril",
-    "fechaVencimiento": "2024-06-15",
+    "fechaVencimiento": "2024-05-15",
     "cuota": 60,
     "recargo": 10,
-    "fechaPagado": "2024-06-15"
+    "fechaPagado": "2024-05-10",
+    "isChecked": false
   },
   {
     "nameConcepto": "Mayo",
-    "fechaVencimiento": "2024-07-15",
+    "fechaVencimiento": "2024-06-15",
     "cuota": 60,
     "recargo": 10,
-    "fechaPagado": "2024-07-14"
+    "fechaPagado": "2024-06-10",
+    "isChecked": false
   },
   {
     "nameConcepto": "Junio",
-    "fechaVencimiento": "2024-08-15",
+    "fechaVencimiento": "2024-07-15",
     "cuota": 60,
     "recargo": 10,
-    "fechaPagado": "2024-08-15"
+    "fechaPagado": "2024-07-10",
+    "isChecked": false
   },
   {
     "nameConcepto": "Julio",
-    "fechaVencimiento": "2024-09-15",
+    "fechaVencimiento": "2024-08-15",
     "cuota": 60,
     "recargo": 10,
-    "fechaPagado": "2024-09-10"
+    "fechaPagado": "2024-08-10",
+    "isChecked": false
   },
   {
     "nameConcepto": "Agosto",
-    "fechaVencimiento": "2024-10-15",
+    "fechaVencimiento": "2024-09-15",
     "cuota": 60,
     "recargo": 10,
-    "fechaPagado": "2024-10-15"
+    "fechaPagado": "2024-09-10",
+    "isChecked": false
   },
   {
     "nameConcepto": "Septiembre",
-    "fechaVencimiento": "2024-11-15",
+    "fechaVencimiento": "2024-10-15",
     "cuota": 60,
     "recargo": 10,
-    "fechaPagado": "2024-11-12"
+    "fechaPagado": "2024-10-10",
+    "isChecked": false
   },
   {
     "nameConcepto": "Octubre",
-    "fechaVencimiento": "2024-12-15",
+    "fechaVencimiento": "2024-11-15",
     "cuota": 60,
     "recargo": 10,
-    "fechaPagado": "2024-12-15"
+    "fechaPagado": "2024-11-10",
+    "isChecked": false
   },
   {
     "nameConcepto": "Noviembre",
-    "fechaVencimiento": "2025-01-15",
+    "fechaVencimiento": "2024-12-15",
     "cuota": 60,
     "recargo": 10,
-    "fechaPagado": "2025-01-10"
+    "fechaPagado": "2024-12-10",
+    "isChecked": false
   },
   {
     "nameConcepto": "Diciembre",
-    "fechaVencimiento": "2025-02-15",
+    "fechaVencimiento": "2025-01-15",
     "cuota": 60,
     "recargo": 10,
-    "fechaPagado": "2025-02-15"
+    "fechaPagado": "2025-01-10",
+    "isChecked": false
   }
 ]
