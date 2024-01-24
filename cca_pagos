@@ -89,4 +89,44 @@
     "recargo": 10,
     "fechaPagado": "2024-09-14"
   },
- 
+  {
+    "IDDetalle": 10,
+    "Pagado": 0,
+    "isChecked": false,
+    "nameConcepto": "Septiembre",
+    "fechaVencimiento": "2024-10-15",
+    "cuota": 60,
+    "recargo": 10,
+    "fechaPagado": "2024-10-14"
+  },
+  {
+    "IDDetalle": 11,
+    "Pagado": 0,
+    "isChecked": false,
+    "nameConcepto": "Octubre",
+    "fechaVencimiento": "2024-11-15",
+    "cuota": 60,
+    "recargo": 10,
+    "fechaPagado": "2024-11-14"
+  },
+  {
+    "IDDetalle": 12,
+    "Pagado": 0,
+    "isChecked": false,
+    "nameConcepto": "Noviembre",
+    "fechaVencimiento": "2024-12-15",
+    "cuota": 60,
+    "recargo": 10,
+    "fechaPagado": "2024-12-14"
+  },
+  {
+    "IDDetalle": 13,
+    "Pagado": 0,
+    "isChecked": false,
+    "nameConcepto": "Diciembre",
+    "fechaVencimiento": "2025-01-15",
+    "cuota": 60,
+    "recargo": 10,
+    "fechaPagado": "2025-01-14"
+  }
+]
