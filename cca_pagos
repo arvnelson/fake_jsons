@@ -8,7 +8,7 @@
     "fechaVencimiento": "2024-01-15",
     "cuota": 80,
     "recargo": 10,
-    "fechaPagado": "2024-01-16"
+    "fechaPagado": ""
   },
   {
     "IDDetalle": 2,
@@ -19,7 +19,7 @@
     "fechaVencimiento": "2024-02-15",
     "cuota": 60,
     "recargo": 10,
-    "fechaPagado": "2024-02-14"
+    "fechaPagado": ""
   },
   {
     "IDDetalle": 3,
@@ -30,11 +30,11 @@
     "fechaVencimiento": "2024-03-15",
     "cuota": 60,
     "recargo": 10,
-    "fechaPagado": "2024-03-10"
+    "fechaPagado": ""
   },
   {
     "IDDetalle": 4,
-    "pagado": 0,
+    "pagado": 1,
     "isChecked": false,
     "exigible": 0,
     "nameConcepto": "Marzo",
@@ -52,7 +52,7 @@
     "fechaVencimiento": "2024-05-15",
     "cuota": 60,
     "recargo": 10,
-    "fechaPagado": "2024-05-14"
+    "fechaPagado": ""
   },
   {
     "IDDetalle": 6,
@@ -63,7 +63,7 @@
     "fechaVencimiento": "2024-06-15",
     "cuota": 60,
     "recargo": 10,
-    "fechaPagado": "2024-06-14"
+    "fechaPagado": ""
   },
   {
     "IDDetalle": 7,
@@ -74,7 +74,7 @@
     "fechaVencimiento": "2024-07-15",
     "cuota": 60,
     "recargo": 10,
-    "fechaPagado": "2024-07-14"
+    "fechaPagado": ""
   },
   {
     "IDDetalle": 8,
@@ -85,7 +85,7 @@
     "fechaVencimiento": "2024-08-15",
     "cuota": 60,
     "recargo": 10,
-    "fechaPagado": "2024-08-14"
+    "fechaPagado": ""
   },
   {
     "IDDetalle": 9,
@@ -96,7 +96,7 @@
     "fechaVencimiento": "2024-09-15",
     "cuota": 60,
     "recargo": 10,
-    "fechaPagado": "2024-09-14"
+    "fechaPagado": ""
   },
   {
     "IDDetalle": 10,
@@ -107,7 +107,7 @@
     "fechaVencimiento": "2024-10-15",
     "cuota": 60,
     "recargo": 10,
-    "fechaPagado": "2024-10-14"
+    "fechaPagado": ""
   },
   {
     "IDDetalle": 11,
@@ -118,7 +118,7 @@
     "fechaVencimiento": "2024-11-15",
     "cuota": 60,
     "recargo": 10,
-    "fechaPagado": "2024-11-14"
+    "fechaPagado": ""
   },
   {
     "IDDetalle": 12,
@@ -129,7 +129,7 @@
     "fechaVencimiento": "2024-12-15",
     "cuota": 60,
     "recargo": 10,
-    "fechaPagado": "2024-12-14"
+    "fechaPagado": ""
   },
   {
     "IDDetalle": 13,
@@ -140,6 +140,6 @@
     "fechaVencimiento": "2025-01-15",
     "cuota": 60,
     "recargo": 10,
-    "fechaPagado": "2025-01-14"
+    "fechaPagado": ""
   }
 ]
