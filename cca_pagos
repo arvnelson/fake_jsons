@@ -1,1 +1,132 @@
-sjdksd
+[
+  {
+    "IDDetalle": 1,
+    "Pagado": 0,
+    "isChecked": false,
+    "nameConcepto": "Matricula",
+    "fechaVencimiento": "2024-01-15",
+    "cuota": 80,
+    "recargo": 10,
+    "fechaPagado": "2024-01-16"
+  },
+  {
+    "IDDetalle": 2,
+    "Pagado": 0,
+    "isChecked": false,
+    "nameConcepto": "Enero",
+    "fechaVencimiento": "2024-02-15",
+    "cuota": 60,
+    "recargo": 10,
+    "fechaPagado": "2024-02-14"
+  },
+  {
+    "IDDetalle": 3,
+    "Pagado": 1,
+    "isChecked": true,
+    "nameConcepto": "Febrero",
+    "fechaVencimiento": "2024-03-15",
+    "cuota": 60,
+    "recargo": 10,
+    "fechaPagado": "2024-03-10"
+  },
+  {
+    "IDDetalle": 4,
+    "Pagado": 0,
+    "isChecked": false,
+    "nameConcepto": "Marzo",
+    "fechaVencimiento": "2024-04-15",
+    "cuota": 60,
+    "recargo": 10,
+    "fechaPagado": "2024-04-14"
+  },
+  {
+    "IDDetalle": 5,
+    "Pagado": 0,
+    "isChecked": false,
+    "nameConcepto": "Abril",
+    "fechaVencimiento": "2024-05-15",
+    "cuota": 60,
+    "recargo": 10,
+    "fechaPagado": "2024-05-14"
+  },
+  {
+    "IDDetalle": 6,
+    "Pagado": 0,
+    "isChecked": false,
+    "nameConcepto": "Mayo",
+    "fechaVencimiento": "2024-06-15",
+    "cuota": 60,
+    "recargo": 10,
+    "fechaPagado": "2024-06-14"
+  },
+  {
+    "IDDetalle": 7,
+    "Pagado": 0,
+    "isChecked": false,
+    "nameConcepto": "Junio",
+    "fechaVencimiento": "2024-07-15",
+    "cuota": 60,
+    "recargo": 10,
+    "fechaPagado": "2024-07-14"
+  },
+  {
+    "IDDetalle": 8,
+    "Pagado": 0,
+    "isChecked": false,
+    "nameConcepto": "Julio",
+    "fechaVencimiento": "2024-08-15",
+    "cuota": 60,
+    "recargo": 10,
+    "fechaPagado": "2024-08-14"
+  },
+  {
+    "IDDetalle": 9,
+    "Pagado": 0,
+    "isChecked": false,
+    "nameConcepto": "Agosto",
+    "fechaVencimiento": "2024-09-15",
+    "cuota": 60,
+    "recargo": 10,
+    "fechaPagado": "2024-09-14"
+  },
+  {
+    "IDDetalle": 10,
+    "Pagado": 0,
+    "isChecked": false,
+    "nameConcepto": "Septiembre",
+    "fechaVencimiento": "2024-10-15",
+    "cuota": 60,
+    "recargo": 10,
+    "fechaPagado": "2024-10-14"
+  },
+  {
+    "IDDetalle": 11,
+    "Pagado": 0,
+    "isChecked": false,
+    "nameConcepto": "Octubre",
+    "fechaVencimiento": "2024-11-15",
+    "cuota": 60,
+    "recargo": 10,
+    "fechaPagado": "2024-11-14"
+  },
+  {
+    "IDDetalle": 12,
+    "Pagado": 0,
+    "isChecked": false,
+    "nameConcepto": "Noviembre",
+    "fechaVencimiento": "2024-12-15",
+    "cuota": 60,
+    "recargo": 10,
+    "fechaPagado": "2024-12-14"
+  },
+  {
+    "IDDetalle": 13,
+    "Pagado": 0,
+    "isChecked": false,
+    "nameConcepto": "Diciembre",
+    "fechaVencimiento": "2025-01-15",
+    "cuota": 60,
+    "recargo": 10,
+    "fechaPagado": "2025-01-14"
+  }
+]
