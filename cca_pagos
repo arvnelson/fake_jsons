@@ -28,7 +28,7 @@
   {
     "IDDetalle": 3,
     "pagado": 1,
-    "isChecked": true,
+    "isChecked": false,
     "exigible": 0,
     "IDCuenta": 9408,
     "nameConcepto": "Febrero",
