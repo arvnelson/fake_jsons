@@ -16,7 +16,7 @@
     "IDDetalle": 2,
     "pagado": 0,
     "isChecked": false,
-    "exigible": 0,
+    "exigible": 1,
     "IDCuenta": 9408,
     "nameConcepto": "Enero",
     "fechaVencimiento": "2024-02-15",
@@ -35,7 +35,7 @@
     "fechaVencimiento": "2024-03-15",
     "cuota": 60,
     "recargo": 10,
-    "fechaPagado": "",
+    "fechaPagado": "2024-03-14",
     "Orden": 2
   },
   {
