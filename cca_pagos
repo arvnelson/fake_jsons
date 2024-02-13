@@ -27,7 +27,7 @@
   },
   {
     "IDDetalle": 3,
-    "pagado": 1,
+    "pagado": 0,
     "isChecked": false,
     "exigible": 0,
     "IDCuenta": 9408,
@@ -35,12 +35,12 @@
     "fechaVencimiento": "2024-03-15",
     "cuota": 60,
     "recargo": 10,
-    "fechaPagado": "2024-03-14",
+    "fechaPagado": "",
     "Orden": 2
   },
   {
     "IDDetalle": 4,
-    "pagado": 1,
+    "pagado": 0,
     "isChecked": false,
     "exigible": 0,
     "IDCuenta": 9408,
@@ -48,7 +48,7 @@
     "fechaVencimiento": "2024-04-15",
     "cuota": 60,
     "recargo": 10,
-    "fechaPagado": "2024-04-14",
+    "fechaPagado": "",
     "Orden": 3
   },
   {
