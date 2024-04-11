@@ -1,4 +1,53 @@
-[
+{
+        "solicitudes": [
+        //   {
+        //     "activo": true,
+        //     "component": "adicion.materia",
+        //     "descripcion": "Realizar inscripción extraordinaria de materias",
+        //     "icon": "add-task",
+        //     "iconpack": "MaterialIcons",
+        //     "iconsize": 32,
+        //     "key": 3002,
+        //     "Monto": 10,
+        //     "Clasificacion": "OTROS",
+        //     "titulo": "Adición de materias"
+        //   },
+        //   {
+        //     "activo": true,
+        //     "component": "cambios.grupo",
+        //     "descripcion": "Hacer cambio de grupos",
+        //     "icon": "published-with-changes",
+        //     "iconpack": "MaterialIcons",
+        //     "iconsize": 32,
+        //     "key": 3003,
+        //     "Monto": 10,
+        //     "Clasificacion": "OTROS",
+        //     "titulo": "Cambios de grupo"
+        //   },
+        //   {
+        //     "activo": true,
+        //     "component": "retiro.materia",
+        //     "descripcion": "Hacer retiro de materias inscritas",
+        //     "icon": "sort-bool-descending-variant",
+        //     "iconpack": "MaterialCommunityIcons",
+        //     "iconsize": 32,
+        //     "key": 3004,
+        //     "Monto": 10,
+        //     "Clasificacion": "OTROS",
+        //     "titulo": "Retiro de materias"
+        //   },
+        //   {
+        //     "activo": true,
+        //     "component": "retiro.ciclo",
+        //     "descripcion": "Retirar ciclo actual",
+        //     "icon": "repo-deleted",
+        //     "iconpack": "Octicons",
+        //     "iconsize": 32,
+        //     "key": 3005,
+        //     "Monto": 10,
+        //     "Clasificacion": "OTROS",
+        //     "titulo": "Retiro de ciclo"
+        //   },
           {
             "activo": true,
             "component": "solicitud.general",
@@ -167,4 +216,5 @@
             "Clasificacion": "OTROS",
             "titulo": "Equivalencia"
           }
-]
+        ]
+      }
