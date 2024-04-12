@@ -1,172 +1,158 @@
 {
-"solicitudes": [
-          {
+    "solicitudes": [
+        {
             "activo": true,
             "component": "solicitud.general",
-            "descripcion": "Solicitud para pedir una reposición de parcial",
             "icon": "archive-plus-outline",
             "iconpack": "MaterialCommunityIcons",
             "iconsize": 32,
-            "key": 3006,
+            "CodigoServicio": 3006,
             "Monto": 10,
             "Clasificacion": "OTROS",
-            "titulo": "Reposición de Parcial"
-          },
-          {
+            "Descripcion": "Reposición de Parcial"
+        },
+        {
             "activo": true,
             "component": "solicitud.general",
-            "descripcion": "Solicitud para pedir una reposición de parcial",
             "icon": "archive-plus-outline",
             "iconpack": "MaterialCommunityIcons",
             "iconsize": 32,
-            "key": 3007,
+            "CodigoServicio": 3007,
             "Monto": 10,
             "Clasificacion": "OTROS",
-            "titulo": "Examen diferido"
-          },
-          {
+            "Descripcion": "Examen diferido"
+        },
+        {
             "activo": true,
             "component": "solicitud.general",
-            "descripcion": "Solicitud para pedir una reposición de parcial",
             "icon": "archive-plus-outline",
             "iconpack": "MaterialCommunityIcons",
             "iconsize": 32,
-            "key": 3008,
+            "CodigoServicio": 3008,
             "Monto": 10,
             "Clasificacion": "OTROS",
-            "titulo": "Constancia de notas"
-          },
-          {
+            "Descripcion": "Constancia de notas"
+        },
+        {
             "activo": true,
             "component": "solicitud.general",
-            "descripcion": "Solicitud para pedir constancia de notas más extensa",
             "icon": "archive-plus-outline",
             "iconpack": "MaterialCommunityIcons",
             "iconsize": 32,
-            "key": 3009,
+            "CodigoServicio": 3009,
             "Monto": 10,
             "Clasificacion": "OTROS",
-            "titulo": "Certificación parcial"
-          },
-          {
+            "Descripcion": "Certificación parcial"
+        },
+        {
             "activo": true,
             "component": "solicitud.general",
-            "descripcion": "Solicitud para pedir constancia de notas más extensa",
             "icon": "archive-plus-outline",
             "iconpack": "MaterialCommunityIcons",
             "iconsize": 32,
-            "key": 3010,
+            "CodigoServicio": 3010,
             "Monto": 10,
             "Clasificacion": "OTROS",
-            "titulo": "Certificación global"
-          },
-          {
+            "Descripcion": "Certificación global"
+        },
+        {
             "activo": true,
             "component": "solicitud.general",
-            "descripcion": "Solicitud para pedir una reposición de parcial",
             "icon": "archive-plus-outline",
             "iconpack": "MaterialCommunityIcons",
             "iconsize": 32,
-            "key": 3011,
+            "CodigoServicio": 3011,
             "Monto": 10,
             "Clasificacion": "OTROS",
-            "titulo": "Defensa de tesis"
-          },
-          {
+            "Descripcion": "Defensa de tesis"
+        },
+        {
             "activo": true,
             "component": "solicitud.general",
-            "descripcion": "Solicitud para pedir una reposición de parcial",
             "icon": "archive-plus-outline",
             "iconpack": "MaterialCommunityIcons",
             "iconsize": 32,
-            "key": 3012,
+            "CodigoServicio": 3012,
             "Monto": 10,
             "Clasificacion": "OTROS",
-            "titulo": "Cambio de carrera"
-          },
-          {
+            "Descripcion": "Cambio de carrera"
+        },
+        {
             "activo": true,
             "component": "solicitud.general",
-            "descripcion": "Solicitud para pedir una reposición de parcial",
             "icon": "archive-plus-outline",
             "iconpack": "MaterialCommunityIcons",
             "iconsize": 32,
-            "key": 3013,
+            "CodigoServicio": 3013,
             "Monto": 10,
             "Clasificacion": "MAESTRIA",
-            "titulo": "Curso preuniversitario"
-          },
-          {
+            "Descripcion": "Curso preuniversitario"
+        },
+        {
             "activo": true,
             "component": "solicitud.general",
-            "descripcion": "Solicitud para pedir una reposición de parcial",
             "icon": "archive-plus-outline",
             "iconpack": "MaterialCommunityIcons",
             "iconsize": 32,
-            "key": 3014,
+            "CodigoServicio": 3014,
             "Monto": 10,
             "Clasificacion": "OTROS",
-            "titulo": "Interciclo"
-          },
-          {
+            "Descripcion": "Interciclo"
+        },
+        {
             "activo": true,
             "component": "solicitud.general",
-            "descripcion": "Solicitud para pedir una reposición de parcial",
             "icon": "archive-plus-outline",
             "iconpack": "MaterialCommunityIcons",
             "iconsize": 32,
-            "key": 3015,
+            "CodigoServicio": 3015,
             "Monto": 10,
             "Clasificacion": "OTROS",
-            "titulo": "Reposición de carnet"
-          },
-          {
+            "Descripcion": "Reposición de carnet"
+        },
+        {
             "activo": true,
             "component": "solicitud.general",
-            "descripcion": "Solicitud para pedir una reposición de parcial",
             "icon": "archive-plus-outline",
             "iconpack": "MaterialCommunityIcons",
             "iconsize": 32,
-            "key": 3016,
+            "CodigoServicio": 3016,
             "Monto": 10,
             "Clasificacion": "OTROS",
-            "titulo": "Carta de egresado"
-          },
-          {
+            "Descripcion": "Carta de egresado"
+        },
+        {
             "activo": true,
             "component": "solicitud.general",
-            "descripcion": "Solicitud para pedir una reposición de parcial",
             "icon": "archive-plus-outline",
             "iconpack": "MaterialCommunityIcons",
             "iconsize": 32,
-            "key": 3017,
+            "CodigoServicio": 3017,
             "Monto": 10,
             "Clasificacion": "OTROS",
-            "titulo": "Examen sicologico"
-          },
-          {
+            "Descripcion": "Examen sicologico"
+        },
+        {
             "activo": true,
             "component": "solicitud.general",
-            "descripcion": "Solicitud para pedir una reposición de parcial",
             "icon": "archive-plus-outline",
             "iconpack": "MaterialCommunityIcons",
             "iconsize": 32,
-            "key": 3018,
+            "CodigoServicio": 3018,
             "Monto": 10,
             "Clasificacion": "OTROS",
-            "titulo": "Cuota de asesoría"
-          },
-          {
+            "Descripcion": "Cuota de asesoría"
+        },
+        {
             "activo": true,
             "component": "solicitud.general",
-            "descripcion": "Solicitud para pedir una reposición de parcial",
             "icon": "archive-plus-outline",
             "iconpack": "MaterialCommunityIcons",
             "iconsize": 32,
-            "key": 3019,
+            "CodigoServicio": 3019,
             "Monto": 10,
             "Clasificacion": "OTROS",
-            "titulo": "Equivalencia"
-          }
-        ]
+            "Descripcion": "Equivalencia"
+        }
+    ]
 }
