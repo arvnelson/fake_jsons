@@ -1,6 +1,4 @@
-[
-   {
-        "solicitudes": [
+ [
         //   {
         //     "activo": true,
         //     "component": "adicion.materia",
@@ -217,6 +215,4 @@
             "Clasificacion": "OTROS",
             "titulo": "Equivalencia"
           }
-        ]
-      }
-]
+   ]
